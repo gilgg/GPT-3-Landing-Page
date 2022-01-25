@@ -1,16 +1,15 @@
 .gpt3__footer {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
-
+  justify-content: center;
   background: var(--color-footer);
 }
 
 .gpt3__footer-heading {
   width: 100%;
-  text-align: center;
   margin-bottom: 3rem;
+  text-align: center;
 }
 
 .gpt3__footer-heading h1 {
@@ -24,13 +23,13 @@
 
 .gpt3__footer-btn {
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
 
+  margin-bottom: 10rem;
   padding: 1rem;
   border: 1px solid #fff;
   text-align: center;
-  margin-bottom: 10rem;
   cursor: pointer;
 }
 
@@ -45,9 +44,9 @@
 .gpt3__footer-links {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
-  align-items: flex-start;
   flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
   width: 100%;
   text-align: left;
 }
@@ -63,8 +62,8 @@
 }
 
 .gpt3__footer-links_logo img {
-  width: 118px;
   height: 30px;
+  width: 118px;
   margin-bottom: 1rem;
 }
 
@@ -77,31 +76,31 @@
 
 .gpt3__footer-links_div {
   display: flex;
-  justify-content: flex-start;
   flex-direction: column;
+  justify-content: flex-start;
 }
 
 .gpt3__footer-links_div h4 {
+  margin-bottom: 1rem;
   font-family: var(--font-family);
   font-size: 14px;
   line-height: 16px;
   color: #fff;
-  margin-bottom: 1rem;
 }
 
 .gpt3__footer-links_div p {
+  margin: 0.5rem 0;
   font-family: var(--font-family);
   font-size: 12px;
   line-height: 14px;
   color: #fff;
-  margin: 0.5rem 0;
   cursor: pointer;
 }
 
 .gpt3__footer-copyright {
+  width: 100%;
   margin-top: 2rem;
   text-align: center;
-  width: 100%;
 }
 
 .gpt3__footer-copyright p {
