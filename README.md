@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="margin: 0 auto;">
   <img src="https://i.ibb.co/zG4V1Xy/ai.png" alt="AI" />
 </div>
 
