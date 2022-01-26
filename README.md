@@ -1,16 +1,6 @@
-<div style="margin: 0 auto;">
-  <img src="https://i.ibb.co/zG4V1Xy/ai.png" alt="AI" />
-</div>
-
 <p align="center">
   <img src="https://i.ibb.co/zG4V1Xy/ai.png" alt="AI" />
 </p>
-
-![AI](https://i.ibb.co/zG4V1Xy/ai.png#center) 
-img[src*='#center'] { 
-    display: block;
-    margin: auto;
-}
 
 # Contents
 
