@@ -45,7 +45,7 @@ GPT-3 AI landing page.
 
 <br />
 
-![GPT-3](https://i.ibb.co/LrWnCSJ/gpt3-5.png)
+![GPT-3](https://i.ibb.co/sFQvxtq/gpt3-5.png)
 
 <br />
 
