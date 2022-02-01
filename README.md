@@ -29,24 +29,24 @@ GPT-3 AI landing page.
 
 # Screenshots 🎮
 
-![GPT-3 Header](https://i.ibb.co/FW8NvsC/gpt3-1.png)
+![GPT-3 Header](https://i.ibb.co/drLTcrK/gpt3-1.png)
 
 <br />
 
-![GPT-3](https://i.ibb.co/n03JrCB/gpt3-2.png)
+![GPT-3](https://i.ibb.co/zmD263Y/gpt3-2.png)
 
 <br />
 
-![GPT-3](https://i.ibb.co/J7drYFY/gpt3-3.png)
+![GPT-3](https://i.ibb.co/wLkhhSj/gpt3-3.png)
 
 <br />
 
-![GPT-3](https://i.ibb.co/GvNFsPj/gpt3-4.png)
+![GPT-3](https://i.ibb.co/Z2zsfgx/gpt3-4.png)
 
 <br />
 
-![GPT-3](https://i.ibb.co/y0JJM34/gpt3-5.png)
+![GPT-3](https://i.ibb.co/LrWnCSJ/gpt3-5.png)
 
 <br />
 
-![GPT-3](https://i.ibb.co/XDXnbtk/gpt3-6.png)
+![GPT-3](https://i.ibb.co/58MLRtR/gpt3-6.png)
